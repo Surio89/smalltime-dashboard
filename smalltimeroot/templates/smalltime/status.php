@@ -1,0 +1,1 @@
+<?php include($_template->get_user04()); ?>
